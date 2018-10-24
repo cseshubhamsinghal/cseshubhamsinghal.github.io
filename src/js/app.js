@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "mode": "grab"
         },
         "onclick": {
-          "enable": true,
+          "enable": false,
           "mode": "push"
         },
         "resize": true
